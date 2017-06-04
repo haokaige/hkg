@@ -1,0 +1,35 @@
+.main {
+    width:900px;
+    height:310px;
+    margin:30px auto 0px;}
+.main .image{
+    float: left;
+    border: 1px solid #ccc;
+    padding:10px;
+    opacity:0.5;
+    margin-right:10px;
+}
+.desc{
+    font-size: 18px;
+    line-height: 24px;
+    font-family: "黑体";
+}
+div.image:hover{
+    opacity:1.0;
+    }
+div .imgage img{
+    display:inline;
+    margin:3px;
+    border:1px solid #bebebe;
+    width:200px;
+    height:160px;
+}
+div .imgage a:hover img
+{
+    border:1px solid #333333;
+}
+
+
+
+}
+
